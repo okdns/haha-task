@@ -2,7 +2,7 @@
 /**
  * haha-task version 0.9
  *
- * 介绍：这是一个单文件的task、bug管理工具，部署方便，给小团队或个人使用的。
+ * 介绍：这是只有一个程序文件的task、bug管理工具，部署方便，给小团队或个人使用的。
  * 作者：大牛哥 <478602@qq.com>
  * 项目托管：https://github.com/okdns/haha-task.git , https://gitee.com/okdns/haha-task
  * 使用说明：
